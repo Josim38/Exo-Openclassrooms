@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Formulaire</title>
+  <title>Formulaire en cours de création</title>
   <link rel="stylesheet" href="style.css">
   <script src="script.js"></script>
 </head>
